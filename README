@@ -2,10 +2,18 @@
 
 Список паттернов, которые необходимо реализовать:
   PHP:
+  	- singleton
+  	- factory
+  	- builder
+  	- adapter
+  	- strategy
   JavaScript:
 
 Список задачь, которые надо решить с использованием того или иного паттерна:
   PHP:
+  	- singleton (representation of request or response | site config | functionality helper (class for providing methods for some special tasks : uploads, image managment or else) )
+  	- factory ()
+  	- builder (builder for complex html objects i.e. constructing php object for representing flash or some part of page by incoming params)
   JavaScript:
 
 После утверждения списка задачь и паттернов приступим к реализации.
