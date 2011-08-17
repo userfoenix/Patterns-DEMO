@@ -8,6 +8,11 @@
   	- adapter
   	- strategy
   JavaScript:
+    - module (модуль)
+    - factory (фабрика)
+    - iterator (итератор)
+    - observer (наблюдатель)
+    - strategy (стратегия)
 
 Список задачь, которые надо решить с использованием того или иного паттерна:
   PHP:
