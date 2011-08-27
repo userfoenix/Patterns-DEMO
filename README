@@ -22,7 +22,7 @@ JavaScript:
   
 PHP:
 - singleton (representation of request or response | site config | functionality helper (class for providing methods for some special tasks : uploads, image managment or else) )
-- factory ()
+- factory (factory for creating builder objects and including libraries for next task (bulder))
 - builder (builder for complex html objects i.e. constructing php object for representing flash or some part of page by incoming params)
 - memento. Реализовать пример сохранения и востановления состояния обекта
 
